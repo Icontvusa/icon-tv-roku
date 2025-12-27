@@ -7,7 +7,7 @@
       "id": "icon-001",
       "title": "ICON TV – Coming Soon",
       "shortDescription": "Official preview content from ICON TV.",
-      "thumbnail": https://github.com/Icontvusa/icon-tv-roku/blob/main/icon-tv-thumbnail.png?raw=true
+      "thumbnail": https://raw.githubusercontent.com/Icontvusa/icon-tv-roku/main/icon-tv-thumbnail.png
       "releaseDate": "2025-12-26",
       "content": {
         "videos": [
