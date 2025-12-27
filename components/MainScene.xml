@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component name="MainScene" extends="Scene">
+
+    <script type="text/brightscript"><![CDATA[
+        sub init()
+            m.top.backgroundColor = "0x000000"
+
+            video = CreateObject("roSGNode", "Video")
+            video.width = 1920
+            video.height = 1080
+            video.translation = [0, 0]
+            video.control = "play"
+            video.visible = true
+
+            content = CreateObject("roSGNode", "ContentNode")
+            content.url = "https://raw.githubusercontent.com/icontvusa/icon-tv-roku/main/icon-tv-coming-soon.mp4"
+            content.streamFormat = "mp4"
+
+            video.content = content
+            m.top.appendChild(video)
+        end sub
+    ]]></script>
+
+</component>
