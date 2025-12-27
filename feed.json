@@ -1,0 +1,24 @@
+{
+  "providerName": "Icon TV",
+  "language": "en-US",
+  "lastUpdated": "2025-12-26T00:00:00Z",
+  "shortFormVideos": [
+    {
+      "id": "icon-001",
+      "title": "ICON TV – Coming Soon",
+      "shortDescription": "Official preview content from ICON TV.",
+      "thumbnail": "https://i.vimeocdn.com/video/placeholder.jpg",
+      "releaseDate": "2025-12-26",
+      "content": {
+        "videos": [
+          {
+            "url": "AQUI_VA_EL_LINK_DE_VIMEO",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ],
+        "duration": 120
+      }
+    }
+  ]
+}
